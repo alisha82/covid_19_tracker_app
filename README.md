@@ -1,6 +1,6 @@
 # covid_19
 
-A new Flutter project.
+A responsive Flutter application for tracking real-time COVID-19 stats globally and country-wise using REST APIs and interactive data charts.
 
 ## Getting Started
 
